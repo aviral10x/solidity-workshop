@@ -2,6 +2,8 @@
 
 This is a resource for Solidity and Ethereum smart-contract programming. Currently under construction. It's a side project with no deadlines, or any form of plan.
 
+**NOTE: Old code, i.e. code in articles that are more then a few months old, should not be considered to be correct. Solidity moves forward at a high pace. Don't use coding techniques from old articles.**
+
 ## Table of Content
 
 - [Solidity Systems Tutorial](#solidity-systems-tutorial)
