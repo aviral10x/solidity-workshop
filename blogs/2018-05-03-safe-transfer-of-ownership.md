@@ -2,7 +2,7 @@
 
 **Warning: the code in this article is only used as examples - it has not been unit tested or undergone any kind of serious review**
 
-Having a master account, or "owner", of a Solidity contract is a common way of ensuring that some functions in an Ethereum-contract is accessible only to a specific account. Here is a simple and well-used template for an owner contract:
+Having a master account, or "owner", of a Solidity contract is a common way of ensuring that some of its functions are accessible only to a specific account. Here is a simple and well-used template for an owner contract:
 
 ```
 contract Owned {
