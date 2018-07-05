@@ -1,4 +1,4 @@
-# Solidity workshop (legacy)
+# Solidity workshop (outdated)
 
 This is a resource for Solidity and Ethereum smart-contract programming. Currently under construction. It's a side project with no deadlines, or any form of plan.
 
