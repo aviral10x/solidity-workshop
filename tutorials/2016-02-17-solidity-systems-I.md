@@ -170,7 +170,7 @@ contract MultiAccountValidator is AccountValidator {
 }
 ```
 
-Finally, it is worth noticing that you can actually pass in a contract that is not an `AccountValidator`. There is no type check when you convert an address to a contract type, so it would only show up when the contract is actually called; and in fact, so long as the contract has the required method the call will work - even if it does not actually actually extend `AccountValidator`. 
+Finally, it is worth noticing that you can actually pass in a contract that is not an `AccountValidator`. There is no type check when you convert an address to a contract type, so it would only show up when the contract is actually called; and in fact, so long as the contract has the required method the call will work - even if it does not actually extend `AccountValidator`. 
 
 It is of course not recommended to use contracts in that way. 
 
